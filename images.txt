@@ -22,5 +22,4 @@ xhofe/alist:latest
 
 ghcr.io/screego/server:1.12.0
 
-ghcr.io/b1-9-curses-speedrunning/b1-showinfo-docs-docker-runtime:v1.0.0
 ghcr.io/b1-9-curses-speedrunning/b1-showinfo-docs-docker-runtime:latest
